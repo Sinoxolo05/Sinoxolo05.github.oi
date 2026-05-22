@@ -14,7 +14,7 @@ Welcome to my digital portfolio created using GitHub and Markdown.
 # 🎓 GitHub Student Account
 
 ## Evidence
-![GitHub Profile Screenshot](https://github.com/Sinoxolo05/Sinoxolo05.github.oi/blob/main/Screenshot%202026-05-22%20190424.png)
+![GitHub Profile Screenshot](Screenshot%202026-05-22%20190424.png)
 
 🔗 [GitHub Profile](https://github.com/Sinoxolo05)
 
@@ -100,7 +100,7 @@ The mock interview experience helped me improve my communication and presentatio
 )
 
 ## Evidence
-![GitHub Pages Screenshot](https://github.com/Sinoxolo05/Sinoxolo05.github.oi/blob/main/Screenshot%202026-05-22%20185935.png)
+![GitHub Pages Screenshot](Screenshot%202026-05-22%20185935.png)
 
 # 🧠 Reflection on the Use of GitHub Pages (STAR Method)
 
