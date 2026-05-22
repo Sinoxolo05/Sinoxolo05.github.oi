@@ -96,7 +96,8 @@ The mock interview experience helped me improve my communication and presentatio
 # 🌍 GitHub Pages Website
 
 ## Live Website
-🔗 [Visit My GitHub Pages Website](your-github-pages-link)
+🔗 [Visit My GitHub Pages Website](https://sinoxolo05.github.io/Sinoxolo05.github.oi/
+)
 
 ## Evidence
 ![GitHub Pages Screenshot](image-link)
