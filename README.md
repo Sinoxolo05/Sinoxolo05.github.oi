@@ -14,7 +14,7 @@ Welcome to my digital portfolio created using GitHub and Markdown.
 # 🎓 GitHub Student Account
 
 ## Evidence
-![GitHub Profile Screenshot](Screenshot%202026-05-22%20190424.png)
+![GitHub Profile Screenshot](github-profile.png)
 
 🔗 [GitHub Profile](https://github.com/Sinoxolo05)
 
@@ -62,10 +62,12 @@ I successfully created a professional CV using Markdown and published it on GitH
 
 ## 🎥 Mock Interview Video
 
- <video width="600" controls>
-        <source src="Mock Interview (2).mp4" type="video/mp4">
-    </video>
-
+<iframe width="700" height="400"
+        src="https://www.youtube.com/embed/VIDEO_ID"
+        title="Mock Interview Video"
+        frameborder="0"
+        allowfullscreen>
+    </iframe>
 
 # 🧠 Reflection on Mock Interview Video (STAR Method)
 
@@ -89,7 +91,7 @@ The mock interview experience helped me improve my communication and presentatio
 )
 
 ## Evidence
-![GitHub Pages Screenshot](Screenshot%202026-05-22%20185935.png)
+![GitHub Pages Screenshot](github_pages.png)
 
 # 🧠 Reflection on the Use of GitHub Pages (STAR Method)
 
