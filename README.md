@@ -14,7 +14,7 @@ Welcome to my digital portfolio created using GitHub and Markdown.
 # 🎓 GitHub Student Account
 
 ## Evidence
-![GitHub Profile Screenshot](image-link-here)
+![GitHub Profile Screenshot](https://github.com/Sinoxolo05/Sinoxolo05.github.oi/blob/main/Screenshot%202026-05-22%20190424.png)
 
 🔗 [GitHub Profile](https://github.com/Sinoxolo05)
 
