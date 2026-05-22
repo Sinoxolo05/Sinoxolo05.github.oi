@@ -100,7 +100,7 @@ The mock interview experience helped me improve my communication and presentatio
 )
 
 ## Evidence
-![GitHub Pages Screenshot](image-link)
+![GitHub Pages Screenshot](https://github.com/Sinoxolo05/Sinoxolo05.github.oi/blob/main/Screenshot%202026-05-22%20185935.png)
 
 # 🧠 Reflection on the Use of GitHub Pages (STAR Method)
 
