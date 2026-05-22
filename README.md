@@ -1,5 +1,26 @@
 # 👨‍💻 Sinoxolo Kobeni - Portfolio
 
+Welcome to my digital portfolio created using GitHub and Markdown.
+
+# 📌 Table of Contents
+1. GitHub Student Account
+2. Curriculum Vitae (Markdown CV)
+3. Reflection on Coding in Markdown
+4. Mock Interview Video
+5. Reflection on Mock Interview Video
+6. GitHub Pages Website
+7. Reflection on GitHub Pages
+
+# 🎓 GitHub Student Account
+
+## Evidence
+![GitHub Profile Screenshot](image-link-here)
+
+🔗 [GitHub Profile](https://github.com/Sinoxolo05)
+
+
+# 📄 Curriculum Vitae (Markdown CV)
+
 📍 04 Boekenhout Street, Fisantekraal, Durbanville 7550  
 📞 078 244 3225  
 📧 230801846@mycput.ac.za  
@@ -24,6 +45,20 @@ Completed: 2022
 - Java (NetBeans – Basic Programming)  
 - Git & GitHub  
 
+# 🧠 Reflection on Coding (CV) in Markdown (STAR Method)
+
+## Situation
+As part of my digital portfolio assignment, I was required to create and code my Curriculum Vitae using Markdown language on GitHub. This was my first time using Markdown to create a professional document online.
+
+## Task
+My task was to learn how Markdown works, structure my CV professionally, and publish it correctly on GitHub while ensuring that the information was easy to read and visually organized.
+
+## Action
+I researched basic Markdown syntax and learned how to use headings, bullet points, horizontal lines, hyperlinks, and image formatting. I created a GitHub repository and edited the README.md file to include my personal information, education, technical skills, and projects. I also practiced committing changes and updating my repository regularly to improve the layout and presentation of my CV.
+
+## Result
+I successfully created a professional CV using Markdown and published it on GitHub. Through this process, I improved my technical skills in GitHub, version control, and Markdown formatting. I also gained confidence in presenting myself professionally online and learned the importance of maintaining a clean digital portfolio.
+
 
 ## 🎥 Mock Interview Video
 
@@ -43,50 +78,44 @@ Completed: 2022
 </body>
 </html>
 
----
+# 🧠 Reflection on Mock Interview Video (STAR Method)
 
-## 🧠 Reflection: Coding in Markdown (STAR)
+## Situation
+For this assignment, I was required to record a mock interview video to demonstrate my communication skills, confidence, and professionalism in an interview environment.
 
-**Situation:**  
-I was required to create a professional portfolio using Markdown.
+## Task
+My task was to prepare professional answers to common interview questions, present myself confidently on camera, and communicate my skills and career goals clearly.
 
-**Task:**  
-To structure and present my CV clearly.
+## Action
+I prepared responses to possible interview questions such as introducing myself, explaining my strengths, and discussing my interest in the ICT field. I practiced speaking clearly and confidently before recording the video. I also ensured that my appearance and background were professional and recorded the interview multiple times to improve my performance.
 
-**Action:**  
-I used Markdown syntax such as headings and lists to organize content effectively.
+## Result
+The mock interview experience helped me improve my communication and presentation skills. I became more confident speaking in front of a camera and learned how important preparation is for interviews. The activity also helped me identify areas where I can improve professionally for future job opportunities and internships.
 
-**Result:**  
-I created a clean, structured, and professional portfolio.
 
----
+# 🌍 GitHub Pages Website
 
-## 🎥 Reflection: Mock Interview (STAR)
+## Live Website
+🔗 [Visit My GitHub Pages Website](your-github-pages-link)
 
-**Situation:**  
-I participated in a mock interview.
+## Evidence
+![GitHub Pages Screenshot](image-link)
 
-**Task:**  
-To present myself professionally and answer questions.
+# 🧠 Reflection on the Use of GitHub Pages (STAR Method)
 
-**Action:**  
-I prepared answers and practiced communication skills.
+## Situation
+As part of building my digital portfolio, I was required to publish my work online using GitHub Pages. This was my first experience creating and hosting a website through GitHub.
 
-**Result:**  
-I improved my confidence and communication skills.
+## Task
+My task was to configure GitHub Pages correctly, publish my portfolio online, and ensure that all sections of my assignment were accessible through a live website link.
 
----
+## Action
+I learned how to enable GitHub Pages through the repository settings and selected the correct branch for publishing. I organized my portfolio using Markdown, added screenshots and links, and tested the website after publishing to ensure everything displayed correctly. I also made updates to improve the appearance and structure of the portfolio.
 
-## 🌐 Reflection: GitHub Pages (STAR)
+## Result
+I successfully published my portfolio using GitHub Pages and gained practical experience in website hosting and online portfolio development. This activity improved my understanding of GitHub tools and showed me how developers can showcase their work professionally online. I now feel more confident using GitHub for future academic and professional projects.
 
-**Situation:**  
-I needed to publish my portfolio online.
+# 📞 Contact Information
 
-**Task:**  
-To deploy my project using GitHub Pages.
-
-**Action:**  
-I configured the repository settings and structured my README for web display.
-
-**Result:**  
-I successfully published my portfolio as a live website.
+📧 230801846@mycput.ac.za  
+📍 Durbanville, South Africa
