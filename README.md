@@ -62,21 +62,10 @@ I successfully created a professional CV using Markdown and published it on GitH
 
 ## 🎥 Mock Interview Video
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My Video</title>
-</head>
-<body>
-
-    <h1>My Mock Interview</h1>
-
-    <video width="600" controls>
+ <video width="600" controls>
         <source src="Mock Interview (2).mp4" type="video/mp4">
     </video>
 
-</body>
-</html>
 
 # 🧠 Reflection on Mock Interview Video (STAR Method)
 
