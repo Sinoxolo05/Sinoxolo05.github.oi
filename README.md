@@ -91,7 +91,7 @@ The mock interview experience helped me improve my communication and presentatio
 )
 
 ## Evidence
-![GitHub Pages Screenshot](github_pages.png)
+![GitHub Pages Screenshot](github-pages.png)
 
 # 🧠 Reflection on the Use of GitHub Pages (STAR Method)
 
